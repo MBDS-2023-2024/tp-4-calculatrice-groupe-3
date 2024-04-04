@@ -57,5 +57,8 @@ class ViewController: UIViewController, CalcInteractor {
         calculator.makeOperation()
     }
     
+    @IBAction func back(_sender:UIButton) {
+            clearAll()
+        }
     
 }

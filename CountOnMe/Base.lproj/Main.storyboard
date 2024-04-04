@@ -126,7 +126,7 @@
                                                     <color key="baseForegroundColor" systemColor="systemPinkColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
-                                                    <action selector="tappedSubstractionButton:" destination="eqK-jh-KKu" eventType="touchUpInside" id="FC4-U3-xQO"/>
+                                                    <action selector="tappedSubtractionButton:" destination="eqK-jh-KKu" eventType="touchUpInside" id="SKT-cN-qpR"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -196,7 +196,7 @@
                                                     <color key="baseForegroundColor" systemColor="secondarySystemBackgroundColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
-                                                    <action selector="back:" destination="eqK-jh-KKu" eventType="touchUpInside" id="MiV-Ar-ZKB"/>
+                                                    <action selector="backWith_sender:" destination="eqK-jh-KKu" eventType="touchUpInside" id="FM0-qC-i4H"/>
                                                 </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aBB-T8-jQM">
@@ -232,8 +232,7 @@
                                                     <color key="baseForegroundColor" systemColor="systemGreenColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
-                                                    <action selector="tappedDivisionButton:" destination="eqK-jh-KKu" eventType="touchUpInside" id="zU5-tl-G8r"/>
-                                                    <action selector="tqppedDivisionButton:" destination="eqK-jh-KKu" eventType="touchUpInside" id="7qo-Oh-GhB"/>
+                                                    <action selector="tappedDivisionButton:" destination="eqK-jh-KKu" eventType="touchUpInside" id="DaK-sm-f7W"/>
                                                 </connections>
                                             </button>
                                         </subviews>
